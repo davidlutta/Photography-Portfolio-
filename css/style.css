@@ -1,0 +1,20 @@
+.Intro{
+  font-weight: 400;
+  font-size: 72px;
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+h3{
+  text-align: center;
+}
+body{
+  color: black;
+}
+.images{
+  border: 30px solid red;
+  background-color: lightblue;
+}
